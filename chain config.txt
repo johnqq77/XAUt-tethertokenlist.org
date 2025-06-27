@@ -1,0 +1,11 @@
+{
+  "chainId": "0x38",
+  "chainName": "BEP20 Chain",
+  "nativeCurrency": {
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpcUrls": ["https://phil-XAUt.bep20chain.org"],
+  "blockExplorerUrls": ["https://myexplorer.mychain.org"]
+}
