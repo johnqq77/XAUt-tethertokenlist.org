@@ -1,0 +1,16 @@
+{
+  "name": "Philippine Gold Bars",
+  "symbol": "XAUt",
+  "decimals": 18,
+  "rpc": "https://phil-XAUt.bep20chain.org",
+  "chainId": "0x38",
+  "shortName": "XAUt",
+  "chainName": "BEP20 Chain",
+  "nativeCurrency": {
+    "name": "Philippine Gold Bars",
+    "symbol": "XAUt",
+    "decimals": 18
+  },
+  "explorer": "https://myexplorer.mychain.org",
+  "logoURI": "XAUt_32x32_final.png"
+}
